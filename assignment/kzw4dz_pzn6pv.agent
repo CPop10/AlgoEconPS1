@@ -2,7 +2,7 @@
 # Student Name: Charlie Wittemann, Cole Popielec
 # Student ID: pzn6pv, kzw4dz
 # Your agent: Trust Issues
-0: 1.0 0 1 1 0
-1: 0.5 0 2 2 1
-2: 0.25 0 3 3 2
-3: 0 3 3 3 3
+0: 1.0 0 1 0 0
+1: 0.75 0 2 1 1
+2: 0.33 0 3 2 3
+3: 0.05 3 3 2 3
