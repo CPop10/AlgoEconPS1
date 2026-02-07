@@ -1,0 +1,8 @@
+# CS 4501 - Prisoner's Dilemma Agent
+# Student Name: Charlie Wittemann, Cole Popielec
+# Student ID: pzn6pv, kzw4dz
+# Your agent: Trust Issues
+0: 1.0 0 1 0 0
+1: 0.75 0 2 1 1
+2: 0.33 0 3 2 3
+3: 0.01 2 3 2 3
